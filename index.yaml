@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sample-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-14T08:29:43.660586425Z"
+    description: A Helm chart for Kubernetes
+    digest: 9a238be6fc0f9ff5de365e9fefe1a02e01931d60f76d23821189d147e35e412e
+    name: sample-nginx
+    type: application
+    urls:
+    - https://github.com/dunefro/sample-charts/releases/download/sample-nginx-0.1.0/sample-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-14T08:29:43.660659025Z"
